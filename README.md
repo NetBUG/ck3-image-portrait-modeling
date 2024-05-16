@@ -12,3 +12,8 @@ This network has been trained on the torngasuk_dataset, which contains approxima
 
 ## Usage
 TBD
+
+
+## Related projects
+ - [Face predictor](https://colab.research.google.com/drive/1tbwgCMt7XlEnbnGO7huSX75-YuAzUP22?usp=sharing) from [CK subreddit](https://www.reddit.com/r/CrusaderKings/comments/u7w3el/comment/i5h5txz/)
+
